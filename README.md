@@ -4,6 +4,7 @@
 
 # What are we doing?
 •	Coordinated a group of 6 to develop an infinite runner/Combat game using UNITY3D.
+
 •	Designed various prefabs and models in blender and inculcated them in the game.
 
 
